@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">LocationFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="waitLocation">Waiting for Location</string>
+    <string name="enable_location_service">Please enable location service to use this feature.The location service is currently disabled for this App</string>
+
+</resources>
